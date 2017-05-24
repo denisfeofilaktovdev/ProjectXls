@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plan>
+  <MainData>
+    <FileName>Rob_Mag_8.04010601_НIEB_2016.xls</FileName>
+    <Specialty>Екологія</Specialty>
+    <Specialization>Екологія та охорона навколишнього середовища</Specialization>
+    <Number>№ РМ - 5 -101 / 16</Number>
+  </MainData>
+  <SubjectInfo>
+    <subject0>
+      <Paragraph>     1.   Цикл гуманітарної та  соціально-економічної  підготовки   ( 240 / 8,0 )  </Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject0>
+    <subject1>
+      <Paragraph>1.1</Paragraph>
+      <SubjectName>Ділова іноземна мова</SubjectName>
+      <Exams>2</Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures></Lectures>
+      <Practices>68</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>52</TestWorks>
+    </subject1>
+    <subject2>
+      <Paragraph>1.2</Paragraph>
+      <SubjectName>Стратегія сталого розвитку</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>86</TestWorks>
+    </subject2>
+    <subject3>
+      <Paragraph>     2.   Цикл професійної та практичної підготовки  ( 1770 / 59,0)</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject3>
+    <subject4>
+      <Paragraph>     2.1.   Цикл професійної підготовки  ( 780 / 26,0)</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject4>
+    <subject5>
+      <Paragraph>2.1.1</Paragraph>
+      <SubjectName>Методологія та організація наукових досліджень</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>99</TestWorks>
+    </subject5>
+    <subject6>
+      <Paragraph>2.1.2</Paragraph>
+      <SubjectName>Екотехнології в авіатранспортних процесах</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>                            </Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>99</TestWorks>
+    </subject6>
+    <subject7>
+      <Paragraph>2.1.3</Paragraph>
+      <SubjectName>Системний аналіз якості навколишнього середовища</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks>1</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>82</TestWorks>
+    </subject7>
+    <subject8>
+      <Paragraph>2.1.4</Paragraph>
+      <SubjectName>Обгрунтування екологічних проектів</SubjectName>
+      <Exams>2</Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects>2</CourseProjects>
+      <Modules>6,5</Modules>
+      <AmountInAll>195</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>127</TestWorks>
+    </subject8>
+    <subject9>
+      <Paragraph>2.1.5</Paragraph>
+      <SubjectName>Основи теорії природно-техногенної безпеки</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>2         1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,5</Modules>
+      <AmountInAll>135</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>84</TestWorks>
+    </subject9>
+    <subject10>
+      <Paragraph>      2.2.   Цикл практичної підготовки   ( 990 / 33.0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject10>
+    <subject11>
+      <Paragraph>2.2.1</Paragraph>
+      <SubjectName>Виробничі практики </SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules></Modules>
+      <AmountInAll></AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks></TestWorks>
+    </subject11>
+    <subject12>
+      <Paragraph>2.2.1.1</Paragraph>
+      <SubjectName>Науково-дослідна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>60</CustomLessons>
+      <TestWorks>30</TestWorks>
+    </subject12>
+    <subject13>
+      <Paragraph>2.2.1.2</Paragraph>
+      <SubjectName>Переддипломна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>7,5</Modules>
+      <AmountInAll>225</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>150</CustomLessons>
+      <TestWorks>75</TestWorks>
+    </subject13>
+    <subject14>
+      <Paragraph>2.2.2</Paragraph>
+      <SubjectName>Кваліфікаційний екзамен</SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>1,5</Modules>
+      <AmountInAll>45</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>45</TestWorks>
+    </subject14>
+    <subject15>
+      <Paragraph>2.2.3</Paragraph>
+      <SubjectName>Дипломна робота</SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>22,5</Modules>
+      <AmountInAll>675</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>675</TestWorks>
+    </subject15>
+    <subject16>
+      <Paragraph>   3.   Цикл дисциплін вільного вибору студента ( 690 / 23,0)</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject16>
+    <subject17>
+      <Paragraph>3.1</Paragraph>
+      <SubjectName>Екологістика, рециклінг і утилізація транспорту</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject17>
+    <subject18>
+      <Paragraph>3.2</Paragraph>
+      <SubjectName>Рециклінг транспортних засобів</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject18>
+    <subject19>
+      <Paragraph>3.3</Paragraph>
+      <SubjectName>Утилізація транспортних засобів</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject19>
+    <subject20>
+      <Paragraph>3.4</Paragraph>
+      <SubjectName>Альтернативні джерела енергії в авіатранспортних процесах</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>2                         1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject20>
+    <subject21>
+      <Paragraph>3.5</Paragraph>
+      <SubjectName>Альтернативні ресурси в транспортній галузі</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>2                         1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject21>
+    <subject22>
+      <Paragraph>3.6</Paragraph>
+      <SubjectName>Енергозберігаючі технології авіатранспортних процесів</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>2                         1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject22>
+    <subject23>
+      <Paragraph>3.7</Paragraph>
+      <SubjectName>Хіммотологія</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1            1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>99</TestWorks>
+    </subject23>
+    <subject24>
+      <Paragraph>3.8</Paragraph>
+      <SubjectName>Хіммотологія та екологічно безпечні технології</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1            1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>99</TestWorks>
+    </subject24>
+    <subject25>
+      <Paragraph>3.9</Paragraph>
+      <SubjectName>Авіаційна хіммотологія</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1            1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>99</TestWorks>
+    </subject25>
+    <subject26>
+      <Paragraph>3.10</Paragraph>
+      <SubjectName>Акустичний моніторинг довкілля  </SubjectName>
+      <Exams></Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>116</TestWorks>
+    </subject26>
+    <subject27>
+      <Paragraph>3.11</Paragraph>
+      <SubjectName>Основи акустичного моніторингу</SubjectName>
+      <Exams></Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>116</TestWorks>
+    </subject27>
+    <subject28>
+      <Paragraph>3.12</Paragraph>
+      <SubjectName>Захист довкілля від шуму і вібрацій</SubjectName>
+      <Exams></Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>116</TestWorks>
+    </subject28>
+    <subject29>
+      <Paragraph>3.13</Paragraph>
+      <SubjectName>Методологія оцінювання екологічних ризиків авіапідприємств</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>116</TestWorks>
+    </subject29>
+    <subject30>
+      <Paragraph>3.14</Paragraph>
+      <SubjectName>Методи визначення екологічних ризиків</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>116</TestWorks>
+    </subject30>
+  </SubjectInfo>
+</Plan>

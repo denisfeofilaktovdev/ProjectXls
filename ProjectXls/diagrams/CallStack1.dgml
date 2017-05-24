@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph DataVirtualized="True" GraphDirection="TopToBottom" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @2 @10 Member=.ctor)" Category="CodeSchema_Method" Bounds="151.828333333333,316.7825,58.5233333333333,25.96" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="Plan" FunctionTypeFlags="Constructor" Label="Plan" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=26 StartCharacterOffset=0 EndLineNumber=26 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @15 Member=(Name=Form1_FormClosed OverloadingParameters=[(@4 @5 Type=Object),(@9 Namespace=System.Windows.Forms Type=FormClosedEventArgs)]))" Category="CodeSchema_Method" Bounds="525.063333333333,316.7825,138.053333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="Form1_FormClosed" FunctionTypeFlags="Method" Label="Form1_FormClosed" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Forms/MainForm.cs StartLineNumber=38 StartCharacterOffset=0 EndLineNumber=38 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @15 Member=(Name=filesButtonPanel_Resize OverloadingParameters=[(@4 @5 Type=Object),(@4 @5 Type=EventArgs)]))" Category="CodeSchema_Method" Bounds="133.72,129.5675,158.74,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="filesButtonPanel_Resize" FunctionTypeFlags="Method" Label="filesButtonPanel_Resize" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Forms/MainForm.cs StartLineNumber=253 StartCharacterOffset=0 EndLineNumber=253 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @15 Member=UpdateListFiles)" Category="CodeSchema_Method" Bounds="119.303333333333,187.215,115.573333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="UpdateListFiles" FunctionTypeFlags="Method" Label="UpdateListFiles" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Forms/MainForm.cs StartLineNumber=160 StartCharacterOffset=0 EndLineNumber=160 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @3 Member=(Name=OpenEditBook OverloadingParameters=[(@4 @5 Type=String)]))" Category="CodeSchema_Method" Bounds="0,244.8625,112.18,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OpenEditBook" FunctionTypeFlags="Method" Label="OpenEditBook" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/WorkExcel.cs StartLineNumber=224 StartCharacterOffset=0 EndLineNumber=224 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @7 Member=(Name=FindNextWord OverloadingParameters=[(@8 Namespace=Microsoft.Office.Interop.Excel Type=Range)]))" Category="CodeSchema_Method" Bounds="185.86,503.9975,112.46,25.96" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="FindNextWord" FunctionTypeFlags="Method" Label="FindNextWord" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Search.cs StartLineNumber=112 StartCharacterOffset=0 EndLineNumber=112 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 @7 Member=(Name=GetCellValue OverloadingParameters=[@11,@18,@18]))" Category="CodeSchema_Method" Bounds="432.715,676.940000000001,102.75,25.96" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="GetCellValue" FunctionTypeFlags="Method" Label="GetCellValue" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Search.cs StartLineNumber=29 StartCharacterOffset=0 EndLineNumber=29 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=MaterialDesign Member=(Name=OnRenderToolStripBackground OverloadingParameters=[(@9 Namespace=System.Windows.Forms Type=ToolStripRenderEventArgs)]))" Category="CodeSchema_Method" Bounds="322.626666666667,129.5675,198.926666666667,25.96" CodeSchemaProperty_IsProtected="True" CommonLabel="OnRenderToolStripBackground" FunctionTypeFlags="Method" IsOverloaded="True" Label="OnRenderToolStripBackground" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MaterialStyle/MaterialDesign.cs StartLineNumber=16 StartCharacterOffset=0 EndLineNumber=16 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="(@1 @2 Type=Subject Member=.ctor)" Category="CodeSchema_Method" Bounds="322.585,446.35,75.01,25.96" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CommonLabel="Subject" FunctionTypeFlags="Constructor" Label="Subject" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Subject.cs StartLineNumber=40 StartCharacterOffset=0 EndLineNumber=40 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@12" Category="CodeSchema_Method" Bounds="428.096666666667,503.9975,111.986666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="FirstParagraph" FunctionTypeFlags="Method" Label="FirstParagraph" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=157 StartCharacterOffset=0 EndLineNumber=157 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@13" Category="CodeSchema_Method" Bounds="183.003333333333,388.7025,118.173333333333,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="SetGeneralData" FunctionTypeFlags="Method" Label="SetGeneralData" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=119 StartCharacterOffset=0 EndLineNumber=119 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@14" Category="CodeSchema_Method" Bounds="331.88,388.7025,116.42,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="SetSubjectData" FunctionTypeFlags="Method" Label="SetSubjectData" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=130 StartCharacterOffset=0 EndLineNumber=130 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@16" Category="CodeSchema_Method" Bounds="552.34,129.5675,83.5,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="ExitEvent" FunctionTypeFlags="Method" Label="ExitEvent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Forms/MainForm.cs StartLineNumber=92 StartCharacterOffset=0 EndLineNumber=92 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@17" Category="CodeSchema_Method" Bounds="9.03166666666664,129.5675,94.1166666666667,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="OpenEvent" FunctionTypeFlags="Method" Label="OpenEvent" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Forms/MainForm.cs StartLineNumber=49 StartCharacterOffset=0 EndLineNumber=49 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@19" Category="CodeSchema_Method" Bounds="427.835,446.35,112.51,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="FindParagraph" FunctionTypeFlags="Method" Label="FindParagraph" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=144 StartCharacterOffset=0 EndLineNumber=144 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@20" Category="CodeSchema_Method" Bounds="192.37,446.35,99.4400000000001,25.96" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="FindWordAt" FunctionTypeFlags="Method" Label="FindWordAt" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Search.cs StartLineNumber=93 StartCharacterOffset=0 EndLineNumber=93 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@21" Category="CodeSchema_Method" Bounds="413.728333333333,561.645,140.723333333333,25.96" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="FindWordAtColumn" FunctionTypeFlags="Method" Label="FindWordAtColumn" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Search.cs StartLineNumber=57 StartCharacterOffset=0 EndLineNumber=57 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@22" Category="CodeSchema_Method" Bounds="436.461666666667,619.2925,95.2566666666667,25.96" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsStatic="True" CommonLabel="FindNextAt" FunctionTypeFlags="Method" Label="FindNextAt" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Search.cs StartLineNumber=78 StartCharacterOffset=0 EndLineNumber=78 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@23" Category="CodeSchema_Method" Bounds="554.945,244.8625,78.29,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="CloseAll" FunctionTypeFlags="Method" Label="CloseAll" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/WorkExcel.cs StartLineNumber=83 StartCharacterOffset=0 EndLineNumber=83 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@24" Category="CodeSchema_Method" Bounds="142.605,244.8625,76.97,25.96" CodeSchemaProperty_IsPrivate="True" CommonLabel="DefPlan" FunctionTypeFlags="Method" Label="DefPlan" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/WorkExcel.cs StartLineNumber=260 StartCharacterOffset=0 EndLineNumber=260 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@25" Category="CodeSchema_Method" Bounds="566.815,187.215,54.55,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Exit" FunctionTypeFlags="Method" Label="Exit" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/WorkExcel.cs StartLineNumber=93 StartCharacterOffset=0 EndLineNumber=93 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@26" Category="CodeSchema_Method" Bounds="390.8,57.6475,62.5799999999999,25.96" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsStatic="True" CommonLabel="Main" FunctionTypeFlags="Method" Label="Main" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/Program.cs StartLineNumber=19 StartCharacterOffset=0 EndLineNumber=19 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@27" Category="CodeSchema_Method" Bounds="240.385,316.7825,77.41,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="SetData" FunctionTypeFlags="Method" Label="SetData" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/Plan/Plan.cs StartLineNumber=109 StartCharacterOffset=0 EndLineNumber=109 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="@6" Category="CodeSchema_Method" Bounds="23.5066666666668,187.215,65.1666666666666,25.96" CodeSchemaProperty_IsPublic="True" CommonLabel="Open" FunctionTypeFlags="Method" Label="Open" Language="{B5E9BD34-6D3E-4B5D-925E-8A43B79820B4}" SourceLocation="(Assembly=file:///d:/C/Excel/Excel/MainWork/WorkExcel.cs StartLineNumber=39 StartCharacterOffset=0 EndLineNumber=39 EndCharacterOffset=0)">
+      <Category Ref="CallStackEntry" />
+      <Category Ref="CodeSchema_SourceLocation" />
+    </Node>
+    <Node Id="ExternalCodeRootNode" Category="ExternalCallStackEntry" Bounds="375.596666666667,0,92.9866666666667,25.96" Label="External Code">
+      <Category Ref="CallStackEntry" />
+    </Node>
+  </Nodes>
+  <Links>
+    <Link Source="@12" Target="@21" Category="CallStackDirectCall" Bounds="484.089996337891,529.95751953125,0,22.6875" />
+    <Link Source="@13" Target="@20" Category="CallStackDirectCall" Bounds="242.089996337891,414.662506103516,0,22.6875" />
+    <Link Source="@14" Target="(@1 @2 Type=Subject Member=.ctor)" Category="CallStackDirectCall" Bounds="370.999572753906,414.662506103516,12.3355712890625,23.703857421875" />
+    <Link Source="@14" Target="@19" Category="CallStackDirectCall" Bounds="411.255187988281,414.662506103516,43.9974670410156,26.9823913574219" />
+    <Link Source="@16" Target="@25" Category="CallStackDirectCall" Bounds="594.090026855469,155.527496337891,0,22.6875" />
+    <Link Source="@17" Target="(@1 @2 @15 Member=UpdateListFiles)" Category="CallStackDirectCall" Bounds="83.3345489501953,155.527496337891,58.3858947753906,27.8165435791016" />
+    <Link Source="@17" Target="@6" Category="CallStackDirectCall" Bounds="56.0900001525879,155.527496337891,0,22.6875" />
+    <Link Source="@19" Target="@12" Category="CallStackDirectCall" Bounds="484.089996337891,472.309997558594,0,22.6875" />
+    <Link Source="@20" Target="(@1 @2 @7 Member=(Name=FindNextWord OverloadingParameters=[(@8 Namespace=Microsoft.Office.Interop.Excel Type=Range)]))" Category="CallStackDirectCall" Bounds="242.089996337891,472.309997558594,0,22.6875" />
+    <Link Source="@21" Target="@22" Category="CallStackDirectCall" Bounds="484.089996337891,587.60498046875,0,22.6875" />
+    <Link Source="@22" Target="(@1 @2 @7 Member=(Name=GetCellValue OverloadingParameters=[@11,@18,@18]))" Category="CallStackDirectCall" Bounds="484.089996337891,645.252502441406,0,22.6875" />
+    <Link Source="@23" Target="(@1 @2 @15 Member=(Name=Form1_FormClosed OverloadingParameters=[(@4 @5 Type=Object),(@9 Namespace=System.Windows.Forms Type=FormClosedEventArgs)]))" Category="CallStackIndirectCall" Bounds="594.090026855469,270.822509765625,0,36.9599914550781" Label="External Code" LabelBounds="521.103333333333,285.8225,72.9866666666667,15.96" />
+    <Link Source="@24" Target="(@1 @2 @10 Member=.ctor)" Category="CallStackDirectCall" Bounds="181.089996337891,270.822509765625,0,36.9599914550781" />
+    <Link Source="@24" Target="@27" Category="CallStackDirectCall" Bounds="198.776870727539,270.822509765625,55.3704986572266,40.6351623535156" />
+    <Link Source="@25" Target="@23" Category="CallStackDirectCall" Bounds="594.090026855469,213.175003051758,0,22.6875" />
+    <Link Source="@26" Target="(@1 @2 @15 Member=(Name=filesButtonPanel_Resize OverloadingParameters=[(@4 @5 Type=Object),(@4 @5 Type=EventArgs)]))" Category="CallStackIndirectCall" Bounds="256.912902832031,80.7630233764648,133.891143798828,45.7041549682617" Label="External Code" LabelBounds="238.103333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@26" Target="(@1 @2 Type=MaterialDesign Member=(Name=OnRenderToolStripBackground OverloadingParameters=[(@9 Namespace=System.Windows.Forms Type=ToolStripRenderEventArgs)]))" Category="CallStackIndirectCall" Bounds="422.089996337891,83.6074981689453,0,36.9599990844727" Label="External Code" LabelBounds="349.103333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@26" Target="@16" Category="CallStackIndirectCall" Bounds="453.3759765625,80.7630233764648,110.942565917969,44.2339630126953" Label="External Code" LabelBounds="460.103333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@26" Target="@17" Category="CallStackIndirectCall" Bounds="111.386795043945,75.695915222168,279.413192749023,53.0427474975586" Label="External Code" LabelBounds="127.103333333333,98.6075000000001,72.9866666666667,15.96" />
+    <Link Source="@27" Target="@13" Category="CallStackIndirectCall" Bounds="252.88493347168,342.742492675781,19.5273590087891,37.9570007324219" Label="External Code" LabelBounds="187.603333333333,357.7425,72.9866666666667,15.96" />
+    <Link Source="@27" Target="@14" Category="CallStackIndirectCall" Bounds="299.123077392578,342.742492675781,63.3807067871094,41.0661315917969" Label="External Code" LabelBounds="334.59,357.7425,72.9866666666667,15.96" />
+    <Link Source="@6" Target="(@1 @2 @3 Member=(Name=OpenEditBook OverloadingParameters=[(@4 @5 Type=String)]))" Category="CallStackDirectCall" Bounds="56.0900001525879,213.175003051758,0,22.6875" />
+    <Link Source="@6" Target="@24" Category="CallStackDirectCall" Bounds="84.2351913452148,213.175003051758,60.5368728637695,27.9183959960938" />
+    <Link Source="ExternalCodeRootNode" Target="@26" Category="CallStackIndirectCall" Bounds="422.089996337891,25.9599990844727,0,22.6875" />
+  </Links>
+  <Categories>
+    <Category Id="CallStackDirectCall" Label="Call Stack direct call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack direct call" OutgoingActionLabel="Call Stack direct call" />
+    <Category Id="CallStackEntry" Label="Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="Call Stack Entry" />
+    <Category Id="CallStackIndirectCall" Label="Call Stack indirect call" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Call Stack indirect call" OutgoingActionLabel="Call Stack indirect call" />
+    <Category Id="CodeSchema_Member" Label="Member" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_SourceLocation" Label="Source Location" Icon="File" />
+    <Category Id="ExternalCallStackEntry" Label="External Call Stack Entry" CanBeDataDriven="True" IsProviderRoot="False" NavigationActionLabel="External Call Stack Entry" />
+  </Categories>
+  <Properties>
+    <Property Id="Bounds" DataType="System.Windows.Rect" />
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="Is Constructor" Description="Flag to indicate the method is a constructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="Is Private" Description="Flag to indicate the scope is Private" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsProtected" Label="Is Protected" Description="Flag to indicate the scope is Protected" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="Is Public" Description="Flag to indicate the scope is Public" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsStatic" Label="Is Static" Description="Flag to indicate the member is a static member" DataType="System.Boolean" />
+    <Property Id="CommonLabel" DataType="System.String" />
+    <Property Id="DataVirtualized" Label="Data Virtualized" Description="If true, the graph can contain nodes and links that represent data for virtualized nodes/links (i.e. not actually created in the graph)." DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Expression" DataType="System.String" />
+    <Property Id="FunctionTypeFlags" Label="FunctionTypeFlags" Description="FunctionTypeFlags" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Diagrams.Layout.LayoutOrientation" />
+    <Property Id="GroupLabel" DataType="System.String" />
+    <Property Id="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsEnabled" DataType="System.Boolean" />
+    <Property Id="IsOverloaded" Label="IsOverloaded" Description="IsOverloaded" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="LabelBounds" DataType="System.Windows.Rect" />
+    <Property Id="Language" Label="Language" Description="Language" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+    <Property Id="SourceLocation" Label="Start Line Number" DataType="Microsoft.VisualStudio.GraphModel.CodeSchema.SourceLocation" />
+    <Property Id="TargetType" DataType="System.Type" />
+    <Property Id="Value" DataType="System.String" />
+    <Property Id="ValueLabel" DataType="System.String" />
+    <Property Id="Visibility" Label="Visibility" Description="Defines whether a node in the graph is visible or not" DataType="System.Windows.Visibility" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="ArrayRank" Label="Array Rank" ValueType="System.String" />
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.GraphModel.GraphNodeIdCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="Parent Type" ValueType="System.Object" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(defdb130-1196-4c51-a5bf-145ac7a9d5d1.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=ExcelConvert" />
+    <Alias n="3" Id="Type=WorkExcel" />
+    <Alias n="4" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.6.1/mscorlib.dll" />
+    <Alias n="5" Id="Namespace=System" />
+    <Alias n="6" Id="(@1 @2 @3 Member=(Name=Open OverloadingParameters=[(@4 @5 Type=(Name=String ArrayRank=1 ParentType=String))]))" />
+    <Alias n="7" Id="Type=Search" />
+    <Alias n="8" Uri="Assembly=$(VsInstallDirUri)/Visual Studio Tools for Office/PIA/Office14/Microsoft.Office.Interop.Excel.dll" />
+    <Alias n="9" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.6.1/System.Windows.Forms.dll" />
+    <Alias n="10" Id="Type=Plan" />
+    <Alias n="11" Id="(@8 Namespace=Microsoft.Office.Interop.Excel Type=Worksheet)" />
+    <Alias n="12" Id="(@1 @2 @10 Member=(Name=FirstParagraph OverloadingParameters=[@11]))" />
+    <Alias n="13" Id="(@1 @2 @10 Member=(Name=SetGeneralData OverloadingParameters=[@11]))" />
+    <Alias n="14" Id="(@1 @2 @10 Member=(Name=SetSubjectData OverloadingParameters=[@11]))" />
+    <Alias n="15" Id="Type=MainForm" />
+    <Alias n="16" Id="(@1 @2 @15 Member=(Name=ExitEvent OverloadingParameters=[(@4 @5 Type=Object),(@4 @5 Type=EventArgs)]))" />
+    <Alias n="17" Id="(@1 @2 @15 Member=(Name=OpenEvent OverloadingParameters=[(@4 @5 Type=Object),(@4 @5 Type=EventArgs)]))" />
+    <Alias n="18" Id="(@4 @5 Type=Int32)" />
+    <Alias n="19" Id="(@1 @2 @10 Member=(Name=FindParagraph OverloadingParameters=[@11,@18]))" />
+    <Alias n="20" Id="(@1 @2 @7 Member=(Name=FindWordAt OverloadingParameters=[@11,(@4 @5 Type=String),@18]))" />
+    <Alias n="21" Id="(@1 @2 @7 Member=(Name=FindWordAtColumn OverloadingParameters=[@11,(@4 @5 Type=String),@18]))" />
+    <Alias n="22" Id="(@1 @2 @7 Member=(Name=FindNextAt OverloadingParameters=[@11,(@4 @5 Type=String),@18,@18]))" />
+    <Alias n="23" Id="(@1 @2 @3 Member=CloseAll)" />
+    <Alias n="24" Id="(@1 @2 @3 Member=DefPlan)" />
+    <Alias n="25" Id="(@1 @2 @3 Member=Exit)" />
+    <Alias n="26" Id="(@1 @2 Type=Program Member=Main)" />
+    <Alias n="27" Id="(@1 @2 @10 Member=SetData)" />
+  </IdentifierAliases>
+  <Styles>
+    <Style TargetType="Link" GroupLabel="Current Call Stack Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CurrentCallStackCall')" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+      <Setter Property="Weight" Value="1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Indirect Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackIndirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+      <Setter Property="StrokeDashArray" Value="4 1" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Call Stack Direct Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('CallStackDirectCall')" />
+      <Setter Property="Stroke" Value="#FFB8B8B8" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External And Current" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('ExternalCallStackEntry') And HasCategory('CurrentCallStackEntry')" />
+      <Setter Property="Background" Value="#FFFFF8F0" />
+      <Setter Property="Stroke" Value="#FFCE5100" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Call Stack Node" ValueLabel="True">
+      <Condition Expression="HasCategory('CurrentCallStackEntry') And !HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFFFE3C6" />
+      <Setter Property="Stroke" Value="#FFD93701" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="External Call Stack Entry" ValueLabel="True">
+      <Condition Expression="HasCategory('ExternalCallStackEntry')" />
+      <Setter Property="Background" Value="#FFF7F7F7" />
+      <Setter Property="StrokeDashArray" Value="1 3" />
+      <Setter Property="Foreground" Value="#FFA5A5A5" />
+      <Setter Property="Stroke" Value="#FFA5A5A5" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Results" ValueLabel="True">
+      <Condition Expression="HasCategory('QueryResult')" />
+      <Setter Property="Background" Value="#FFBCFFBE" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#FF094167" />
+      <Setter Property="Stroke" Value="#FF094167" />
+      <Setter Property="Icon" Value="CodeSchema_Assembly" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#FF0E619A" />
+      <Setter Property="Stroke" Value="#FF0E619A" />
+      <Setter Property="Icon" Value="CodeSchema_Namespace" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Interface" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Interface')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Interface" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Struct" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Struct')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Struct" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enumeration" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Enum')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Enum" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Delegate" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Delegate')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Delegate" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Class" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#FF1382CE" />
+      <Setter Property="Stroke" Value="#FF1382CE" />
+      <Setter Property="Icon" Value="CodeSchema_Class" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Property" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Property')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Property" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method') Or HasCategory('CodeSchema_CallStackUnresolvedMethod')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Method" />
+      <Setter Property="LayoutSettings" Value="List" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Event" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Event')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Event" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Field" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Field')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+      <Setter Property="Stroke" Value="#FFE0E0E0" />
+      <Setter Property="Icon" Value="CodeSchema_Field" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Out Parameter" ValueLabel="True">
+      <Condition Expression="CodeSchemaProperty_IsOut = 'True'" />
+      <Setter Property="Icon" Value="CodeSchema_OutParameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Parameter" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_Parameter')" />
+      <Setter Property="Icon" Value="CodeSchema_Parameter" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Local Variable" ValueLabel="True">
+      <Condition Expression="HasCategory('CodeSchema_LocalExpression')" />
+      <Setter Property="Icon" Value="CodeSchema_LocalExpression" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FF424242" />
+      <Setter Property="Stroke" Value="#FF424242" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Inherits From" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('InheritsFrom') And Target.HasCategory('CodeSchema_Class')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Implements" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="HasCategory('Implements') And Target.HasCategory('CodeSchema_Interface')" />
+      <Setter Property="TargetDecorator" Value="OpenArrow" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Field Read" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Target.HasCategory('CodeSchema_Field') And HasCategory('CodeSchema_FieldRead')" />
+      <Setter Property="StrokeDashArray" Value="2 2" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Comment Link" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="Source.HasCategory('Comment')" />
+      <Setter Property="Stroke" Value="#FFE5C365" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Cursor Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCursorLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Disabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="DisabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Enabled Breakpoint Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="EnabledBreakpointCount" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Instruction Pointer Location Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsInstructionPointerLocation" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Current Callstack Changed" ValueLabel="True" Visibility="Hidden">
+      <Condition Expression="IsCurrentCallstackFrame" />
+      <Setter Property="IndicatorWest" Value="WestIndicator" />
+    </Style>
+  </Styles>
+  <Paths>
+    <Path Id="defdb130-1196-4c51-a5bf-145ac7a9d5d1.OutputPathUri" Value="file:///D:/C/Excel/Excel/bin/Debug/Excel.exe" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+    <Path Id="VsInstallDirUri" Value="file:///C:/Program Files (x86)/Microsoft Visual Studio 11.0" />
+  </Paths>
+</DirectedGraph>

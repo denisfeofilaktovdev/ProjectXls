@@ -1,0 +1,1322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Plan>
+  <MainData>
+    <FileName>Rob_Bak_6.050202_наш_2016_Гот.xls</FileName>
+    <Specialty> Автоматизація та комп'ютерно-інтегровані технології</Specialty>
+    <Specialization>Комп'ютеризовані системи управління та автоматика </Specialization>
+    <Number>№ РБ - 14 - 151 / 16</Number>
+  </MainData>
+  <SubjectInfo>
+    <subject0>
+      <Paragraph>     1.   Цикл дисциплін гуманітарної  та  соціально-економічної  підготовки  ( 480 / 16,0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject0>
+    <subject1>
+      <Paragraph>1.1</Paragraph>
+      <SubjectName>Історія та культура  України</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject1>
+    <subject2>
+      <Paragraph>1.2</Paragraph>
+      <SubjectName>Українська мова</SubjectName>
+      <Exams>1</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject2>
+    <subject3>
+      <Paragraph>1.3</Paragraph>
+      <SubjectName>Філософія </SubjectName>
+      <Exams>4</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject3>
+    <subject4>
+      <Paragraph>1.4</Paragraph>
+      <SubjectName>Іноземна мова </SubjectName>
+      <Exams>2</Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures></Lectures>
+      <Practices>68</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>52</TestWorks>
+    </subject4>
+    <subject5>
+      <Paragraph>1.5</Paragraph>
+      <SubjectName>Фізичне виховання</SubjectName>
+      <Exams></Exams>
+      <Credits>1д,2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures></Lectures>
+      <Practices>34</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject5>
+    <subject6>
+      <Paragraph>     2.   Цикл професійної та практичної підготовки ( 4920 / 164,0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject6>
+    <subject7>
+      <Paragraph>     2.1.   Цикл професійної підготовки ( 4290 / 143,0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject7>
+    <subject8>
+      <Paragraph>2.1.1</Paragraph>
+      <SubjectName>Вища математика</SubjectName>
+      <Exams>1,3</Exams>
+      <Credits>2д,4д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1,4                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>19,0</Modules>
+      <AmountInAll>570</AmountInAll>
+      <Lessons>340</Lessons>
+      <Lectures>204</Lectures>
+      <Practices>136</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>230</TestWorks>
+    </subject8>
+    <subject9>
+      <Paragraph>2.1.2</Paragraph>
+      <SubjectName>Фізика</SubjectName>
+      <Exams>1,2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>9,5</Modules>
+      <AmountInAll>285</AmountInAll>
+      <Lessons>170</Lessons>
+      <Lectures>85</Lectures>
+      <Practices>17</Practices>
+      <LabWorks>68</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>115</TestWorks>
+    </subject9>
+    <subject10>
+      <Paragraph>2.1.3</Paragraph>
+      <SubjectName>Інженерна та комп'ютерна графіка</SubjectName>
+      <Exams></Exams>
+      <Credits>1д,2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1,2                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>6,0</Modules>
+      <AmountInAll>180</AmountInAll>
+      <Lessons>85</Lessons>
+      <Lectures>51</Lectures>
+      <Practices>34</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>95</TestWorks>
+    </subject10>
+    <subject11>
+      <Paragraph>2.1.4</Paragraph>
+      <SubjectName>Програмування</SubjectName>
+      <Exams>3</Exams>
+      <Credits>1д,2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks>3</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>15,0</Modules>
+      <AmountInAll>450</AmountInAll>
+      <Lessons>238</Lessons>
+      <Lectures>85</Lectures>
+      <Practices></Practices>
+      <LabWorks>153</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>212</TestWorks>
+    </subject11>
+    <subject12>
+      <Paragraph>2.1.5</Paragraph>
+      <SubjectName>Екологія</SubjectName>
+      <Exams></Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject12>
+    <subject13>
+      <Paragraph>2.1.6</Paragraph>
+      <SubjectName>Спецрозділи математики</SubjectName>
+      <Exams>4,5,6</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>5,6                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks>4</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>12,0</Modules>
+      <AmountInAll>360</AmountInAll>
+      <Lessons>184</Lessons>
+      <Lectures>100</Lectures>
+      <Practices>84</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>176</TestWorks>
+    </subject13>
+    <subject14>
+      <Paragraph>2.1.7</Paragraph>
+      <SubjectName>Архітектура комп'ютерних систем</SubjectName>
+      <Exams></Exams>
+      <Credits>1д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>1                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,5</Modules>
+      <AmountInAll>105</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>54</TestWorks>
+    </subject14>
+    <subject15>
+      <Paragraph>2.1.8</Paragraph>
+      <SubjectName>Основи метрології</SubjectName>
+      <Exams>2</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>2                   2</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject15>
+    <subject16>
+      <Paragraph>2.1.9</Paragraph>
+      <SubjectName>Економіка та організація виробництва</SubjectName>
+      <Exams></Exams>
+      <Credits>8д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>24</Lessons>
+      <Lectures>12</Lectures>
+      <Practices>12</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>21</TestWorks>
+    </subject16>
+    <subject18>
+      <Paragraph>2.1.10</Paragraph>
+      <SubjectName>Комп'ютерна електроніка</SubjectName>
+      <Exams>3,4,5</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks>3                       1</CalcGraphicWorks>
+      <Homeworks>4,5                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>12,0</Modules>
+      <AmountInAll>360</AmountInAll>
+      <Lessons>170</Lessons>
+      <Lectures>102</Lectures>
+      <Practices>17</Practices>
+      <LabWorks>51</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>190</TestWorks>
+    </subject18>
+    <subject19>
+      <Paragraph>2.1.12</Paragraph>
+      <SubjectName>Операційні системи</SubjectName>
+      <Exams>3</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>3                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>69</TestWorks>
+    </subject19>
+    <subject20>
+      <Paragraph>2.1.13</Paragraph>
+      <SubjectName>Теорія автоматичного управління</SubjectName>
+      <Exams>5,6</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>5                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks>6</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>9,0</Modules>
+      <AmountInAll>270</AmountInAll>
+      <Lessons>131</Lessons>
+      <Lectures>66</Lectures>
+      <Practices></Practices>
+      <LabWorks>65</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>139</TestWorks>
+    </subject20>
+    <subject21>
+      <Paragraph>2.1.14</Paragraph>
+      <SubjectName>Комп'ютерні мережі</SubjectName>
+      <Exams>4</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>4                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>82</TestWorks>
+    </subject21>
+    <subject22>
+      <Paragraph>2.1.15</Paragraph>
+      <SubjectName>Системи управління базами даних</SubjectName>
+      <Exams>8</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>8                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>36</Lessons>
+      <Lectures>12</Lectures>
+      <Practices></Practices>
+      <LabWorks>24</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>54</TestWorks>
+    </subject22>
+    <subject23>
+      <Paragraph>2.1.16</Paragraph>
+      <SubjectName>Теорія систем та системний аналіз </SubjectName>
+      <Exams>6</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>6                             1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>64</Lessons>
+      <Lectures>32</Lectures>
+      <Practices></Practices>
+      <LabWorks>32</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>86</TestWorks>
+    </subject23>
+    <subject24>
+      <Paragraph>2.1.17</Paragraph>
+      <SubjectName>Основи охорони праці                                                         </SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject24>
+    <subject25>
+      <Paragraph>2.1.18</Paragraph>
+      <SubjectName>Інформаційно-вимірювальні елементи бортових систем управління</SubjectName>
+      <Exams>5</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks>5</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>6,0</Modules>
+      <AmountInAll>180</AmountInAll>
+      <Lessons>85</Lessons>
+      <Lectures>51</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>95</TestWorks>
+    </subject25>
+    <subject26>
+      <Paragraph>2.1.19</Paragraph>
+      <SubjectName>Функціональна побудова пілотажно-навігаційних комплексів </SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects>7</CourseProjects>
+      <Modules>7,5</Modules>
+      <AmountInAll>225</AmountInAll>
+      <Lessons>119</Lessons>
+      <Lectures>51</Lectures>
+      <Practices></Practices>
+      <LabWorks>68</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>106</TestWorks>
+    </subject26>
+    <subject27>
+      <Paragraph>2.1.20</Paragraph>
+      <SubjectName>Оптимальні системи управління</SubjectName>
+      <Exams>8</Exams>
+      <Credits>7д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks>8</CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>6,0</Modules>
+      <AmountInAll>180</AmountInAll>
+      <Lessons>87</Lessons>
+      <Lectures>46</Lectures>
+      <Practices></Practices>
+      <LabWorks>41</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>93</TestWorks>
+    </subject27>
+    <subject28>
+      <Paragraph>2.1.21</Paragraph>
+      <SubjectName>Аналітична динаміка</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>3                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject28>
+    <subject29>
+      <Paragraph>2.1.22</Paragraph>
+      <SubjectName>Основи моделювання технологічних процесів</SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>7                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,5</Modules>
+      <AmountInAll>135</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>84</TestWorks>
+    </subject29>
+    <subject30>
+      <Paragraph>     2.2   Цикл  практичної підготовки  ( 630 / 21,0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject30>
+    <subject31>
+      <Paragraph>2.2.1</Paragraph>
+      <SubjectName>Навчальні практики</SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules></Modules>
+      <AmountInAll></AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks></TestWorks>
+    </subject31>
+    <subject32>
+      <Paragraph>2.2.1.1</Paragraph>
+      <SubjectName>Фахова ознайомлювальна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>2д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>60</CustomLessons>
+      <TestWorks>30</TestWorks>
+    </subject32>
+    <subject33>
+      <Paragraph>2.2.1.2</Paragraph>
+      <SubjectName>Навчально-технологічна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>4д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>60</CustomLessons>
+      <TestWorks>30</TestWorks>
+    </subject33>
+    <subject34>
+      <Paragraph>2.2.2</Paragraph>
+      <SubjectName>Виробничі практики</SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules></Modules>
+      <AmountInAll></AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks></TestWorks>
+    </subject34>
+    <subject35>
+      <Paragraph>2.2.2.1</Paragraph>
+      <SubjectName>Технологічна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,5</Modules>
+      <AmountInAll>135</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>90</CustomLessons>
+      <TestWorks>45</TestWorks>
+    </subject35>
+    <subject36>
+      <Paragraph>2.2.2.2</Paragraph>
+      <SubjectName>Переддипломна практика</SubjectName>
+      <Exams></Exams>
+      <Credits>8д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons>60</CustomLessons>
+      <TestWorks>30</TestWorks>
+    </subject36>
+    <subject37>
+      <Paragraph>2.2.3</Paragraph>
+      <SubjectName>Дипломне проектування</SubjectName>
+      <Exams></Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>7,5</Modules>
+      <AmountInAll>225</AmountInAll>
+      <Lessons></Lessons>
+      <Lectures></Lectures>
+      <Practices></Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>225</TestWorks>
+    </subject37>
+    <subject38>
+      <Paragraph>    3.   Цикл  дисциплін  вільного  вибору  студента  ( 1800 / 60,0 )</Paragraph>
+      <SubjectName />
+      <Exams />
+      <Credits />
+      <CalcGraphicWorks />
+      <Homeworks />
+      <Tests />
+      <CourseWorks />
+      <CourseProjects />
+      <Modules />
+      <AmountInAll />
+      <Lessons />
+      <Lectures />
+      <Practices />
+      <LabWorks />
+      <CustomLessons />
+      <TestWorks />
+    </subject38>
+    <subject39>
+      <Paragraph>3.1</Paragraph>
+      <SubjectName>Іноземна мова (за професійним спрямуванням)</SubjectName>
+      <Exams></Exams>
+      <Credits>3д-6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>8,0</Modules>
+      <AmountInAll>240</AmountInAll>
+      <Lessons>134</Lessons>
+      <Lectures></Lectures>
+      <Practices>134</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>106</TestWorks>
+    </subject39>
+    <subject40>
+      <Paragraph>3.2</Paragraph>
+      <SubjectName>Іноземна мова спеціальності</SubjectName>
+      <Exams></Exams>
+      <Credits>3д-6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>8,0</Modules>
+      <AmountInAll>240</AmountInAll>
+      <Lessons>134</Lessons>
+      <Lectures></Lectures>
+      <Practices>134</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>106</TestWorks>
+    </subject40>
+    <subject41>
+      <Paragraph>3.3</Paragraph>
+      <SubjectName>Іноземна мова (за фахом)</SubjectName>
+      <Exams></Exams>
+      <Credits>3д-6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>8,0</Modules>
+      <AmountInAll>240</AmountInAll>
+      <Lessons>134</Lessons>
+      <Lectures></Lectures>
+      <Practices>134</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>106</TestWorks>
+    </subject41>
+    <subject42>
+      <Paragraph>3.4</Paragraph>
+      <SubjectName>Психологія ділового спілкування</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject42>
+    <subject43>
+      <Paragraph>3.5</Paragraph>
+      <SubjectName>Етика ділового спілкування</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject43>
+    <subject44>
+      <Paragraph>3.6</Paragraph>
+      <SubjectName>Риторика</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject44>
+    <subject45>
+      <Paragraph>3.7</Paragraph>
+      <SubjectName>Основи економічної теорії</SubjectName>
+      <Exams></Exams>
+      <Credits>6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>32</Lessons>
+      <Lectures>16</Lectures>
+      <Practices>16</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>58</TestWorks>
+    </subject45>
+    <subject46>
+      <Paragraph>3.8</Paragraph>
+      <SubjectName>Істрія економічних учень</SubjectName>
+      <Exams></Exams>
+      <Credits>6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>32</Lessons>
+      <Lectures>16</Lectures>
+      <Practices>16</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>58</TestWorks>
+    </subject46>
+    <subject47>
+      <Paragraph>3.9</Paragraph>
+      <SubjectName>Релігієзнавство</SubjectName>
+      <Exams></Exams>
+      <Credits>6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>32</Lessons>
+      <Lectures>16</Lectures>
+      <Practices>16</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>58</TestWorks>
+    </subject47>
+    <subject48>
+      <Paragraph>3.10</Paragraph>
+      <SubjectName>Політологія</SubjectName>
+      <Exams></Exams>
+      <Credits>5д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject48>
+    <subject49>
+      <Paragraph>3.11</Paragraph>
+      <SubjectName>Соціологія</SubjectName>
+      <Exams></Exams>
+      <Credits>5д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject49>
+    <subject50>
+      <Paragraph>3.12</Paragraph>
+      <SubjectName>Основи політичних учень</SubjectName>
+      <Exams></Exams>
+      <Credits>5д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject50>
+    <subject51>
+      <Paragraph>3.13</Paragraph>
+      <SubjectName>Основи права</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject51>
+    <subject52>
+      <Paragraph>3.14</Paragraph>
+      <SubjectName>Правознавство</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject52>
+    <subject53>
+      <Paragraph>3.15</Paragraph>
+      <SubjectName>Історія держави і права</SubjectName>
+      <Exams></Exams>
+      <Credits>3д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject53>
+    <subject54>
+      <Paragraph>3.16</Paragraph>
+      <SubjectName>Основи аеродинаміки</SubjectName>
+      <Exams></Exams>
+      <Credits>4д</Credits>
+      <CalcGraphicWorks>4                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject54>
+    <subject55>
+      <Paragraph>3.17</Paragraph>
+      <SubjectName>Аеродинамічні характеристики літаків</SubjectName>
+      <Exams></Exams>
+      <Credits>4д</Credits>
+      <CalcGraphicWorks>4                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject55>
+    <subject56>
+      <Paragraph>3.18</Paragraph>
+      <SubjectName>Моделі аеродинаміки польоту літака</SubjectName>
+      <Exams></Exams>
+      <Credits>4д</Credits>
+      <CalcGraphicWorks>4                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>34</Lessons>
+      <Lectures>17</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>56</TestWorks>
+    </subject56>
+    <subject57>
+      <Paragraph>3.19</Paragraph>
+      <SubjectName>Основи теорії управління польотом</SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks>7                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>82</TestWorks>
+    </subject57>
+    <subject58>
+      <Paragraph>3.20</Paragraph>
+      <SubjectName>Методи управління польотом літака</SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks>7                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>82</TestWorks>
+    </subject58>
+    <subject59>
+      <Paragraph>3.21</Paragraph>
+      <SubjectName>Технології управління польотом літака</SubjectName>
+      <Exams>7</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks>7                       1</CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>5,0</Modules>
+      <AmountInAll>150</AmountInAll>
+      <Lessons>68</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>34</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>82</TestWorks>
+    </subject59>
+    <subject60>
+      <Paragraph>3.22</Paragraph>
+      <SubjectName>Проектування пристроїв та систем управління</SubjectName>
+      <Exams>8</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>8                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>48</Lessons>
+      <Lectures>24</Lectures>
+      <Practices></Practices>
+      <LabWorks>24</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>42</TestWorks>
+    </subject60>
+    <subject61>
+      <Paragraph>3.23</Paragraph>
+      <SubjectName>Технології оцінки якості систем управління</SubjectName>
+      <Exams>8</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>8                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>48</Lessons>
+      <Lectures>24</Lectures>
+      <Practices></Practices>
+      <LabWorks>24</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>42</TestWorks>
+    </subject61>
+    <subject62>
+      <Paragraph>3.24</Paragraph>
+      <SubjectName>Методи моделювання пристроїв та систем управління  </SubjectName>
+      <Exams>8</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>8                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,0</Modules>
+      <AmountInAll>90</AmountInAll>
+      <Lessons>48</Lessons>
+      <Lectures>24</Lectures>
+      <Practices></Practices>
+      <LabWorks>24</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>42</TestWorks>
+    </subject62>
+    <subject63>
+      <Paragraph>3.25</Paragraph>
+      <SubjectName>Контроль та діагностування технічних систем*</SubjectName>
+      <Exams></Exams>
+      <Credits>5д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks></Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,5</Modules>
+      <AmountInAll>105</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>54</TestWorks>
+    </subject63>
+    <subject64>
+      <Paragraph>3.26</Paragraph>
+      <SubjectName>Основи технологій виготовлення пристроїв бортових систем управління*</SubjectName>
+      <Exams></Exams>
+      <Credits>7д,8д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>7,8                        1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>7,0</Modules>
+      <AmountInAll>210</AmountInAll>
+      <Lessons>87</Lessons>
+      <Lectures>58</Lectures>
+      <Practices></Practices>
+      <LabWorks>29</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>123</TestWorks>
+    </subject64>
+    <subject65>
+      <Paragraph>3.27</Paragraph>
+      <SubjectName>Вступ в системне управління організаціями*</SubjectName>
+      <Exams></Exams>
+      <Credits>6д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>6                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,5</Modules>
+      <AmountInAll>105</AmountInAll>
+      <Lessons>48</Lessons>
+      <Lectures>32</Lectures>
+      <Practices></Practices>
+      <LabWorks>16</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>57</TestWorks>
+    </subject65>
+    <subject66>
+      <Paragraph>3.28</Paragraph>
+      <SubjectName>Моделі динаміки рухомих об'єктів*</SubjectName>
+      <Exams>8</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>8                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>36</Lessons>
+      <Lectures>24</Lectures>
+      <Practices></Practices>
+      <LabWorks>12</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>84</TestWorks>
+    </subject66>
+    <subject67>
+      <Paragraph>3.29</Paragraph>
+      <SubjectName>Основи теорії інформаційних процесів*</SubjectName>
+      <Exams></Exams>
+      <Credits>5д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>5                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,5</Modules>
+      <AmountInAll>105</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices>17</Practices>
+      <LabWorks></LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>54</TestWorks>
+    </subject67>
+    <subject68>
+      <Paragraph>3.30</Paragraph>
+      <SubjectName>Організація інформаційно-обчислювальних процесів в бортових системах управління* </SubjectName>
+      <Exams>6</Exams>
+      <Credits></Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>6                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>4,0</Modules>
+      <AmountInAll>120</AmountInAll>
+      <Lessons>48</Lessons>
+      <Lectures>32</Lectures>
+      <Practices></Practices>
+      <LabWorks>16</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>72</TestWorks>
+    </subject68>
+    <subject69>
+      <Paragraph>3.31</Paragraph>
+      <SubjectName>Основи орієнтації та навігації рухомих об'єктів*</SubjectName>
+      <Exams></Exams>
+      <Credits>7д</Credits>
+      <CalcGraphicWorks></CalcGraphicWorks>
+      <Homeworks>7                       1</Homeworks>
+      <Tests></Tests>
+      <CourseWorks></CourseWorks>
+      <CourseProjects></CourseProjects>
+      <Modules>3,5</Modules>
+      <AmountInAll>105</AmountInAll>
+      <Lessons>51</Lessons>
+      <Lectures>34</Lectures>
+      <Practices></Practices>
+      <LabWorks>17</LabWorks>
+      <CustomLessons></CustomLessons>
+      <TestWorks>54</TestWorks>
+    </subject69>
+  </SubjectInfo>
+</Plan>
